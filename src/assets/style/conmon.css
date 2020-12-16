@@ -1,0 +1,24 @@
+.pd-lr-100 {
+    padding: 0 100px;
+}
+.iconpdf, .iconexcel, .icontxt, .iconword {
+    font-size: 46px !important;
+}
+.icondaoru {
+    color: #f78989;
+}
+.icondaochu {
+    color: cadetblue;
+}
+.iconpdf {
+    color: #f78989;
+}
+.iconexcel {
+    color: #42b983;
+}
+.icontxt {
+    color: #b3d4fc;
+}
+.iconword {
+    color: #0086b3;
+}

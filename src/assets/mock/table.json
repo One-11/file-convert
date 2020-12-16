@@ -1,0 +1,46 @@
+{
+  "id": "000001",
+  "fileName": "份额明细",
+  "fileType": "excel",
+  "fileDate": [
+    {
+      "importDate": "2016-05-02",
+      "name": "王小虎",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "importDate": "2016-05-02",
+      "name": "王小虎",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "importDate": "2016-05-02",
+      "name": "王小虎",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "importDate": "2016-05-02",
+      "name": "王小虎",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    },
+    {
+      "importDate": "2016-05-02",
+      "name": "王小虎",
+      "address": "上海市普陀区金沙江路 1518 弄"
+    }
+  ],
+  "tableHeader": [{
+    "key": "name",
+    "label": "姓名",
+    "width": "150"
+  },{
+    "key": "importDate",
+    "label": "导入时间",
+    "width": "150"
+  },{
+    "key": "address",
+    "label": "地址",
+    "width": "250"
+  }
+  ]
+}

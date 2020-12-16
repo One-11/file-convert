@@ -1,0 +1,51 @@
+{
+  "id": "2266488",
+  "name": "file-io",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1615844",
+      "name": "导入",
+      "font_class": "daoru",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "12939973",
+      "name": "导出",
+      "font_class": "daochu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "6233085",
+      "name": "PDF图标",
+      "font_class": "pdf",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "6233095",
+      "name": "TXT图标",
+      "font_class": "txt",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "14476526",
+      "name": "excel",
+      "font_class": "excel",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "14476528",
+      "name": "word",
+      "font_class": "word",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    }
+  ]
+}
